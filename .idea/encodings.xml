@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cloud_feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_sp1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_sp2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_sp3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+  </component>
+</project>

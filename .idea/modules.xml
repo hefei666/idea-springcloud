@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud_feign/cloud_feign.iml" filepath="$PROJECT_DIR$/cloud_feign/cloud_feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_ribbon/cloud_ribbon.iml" filepath="$PROJECT_DIR$/cloud_ribbon/cloud_ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_service/cloud_service.iml" filepath="$PROJECT_DIR$/cloud_service/cloud_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_sp1/cloud_sp1.iml" filepath="$PROJECT_DIR$/cloud_sp1/cloud_sp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_sp2/cloud_sp2.iml" filepath="$PROJECT_DIR$/cloud_sp2/cloud_sp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_sp3/cloud_sp3.iml" filepath="$PROJECT_DIR$/cloud_sp3/cloud_sp3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_zuul/cloud_zuul.iml" filepath="$PROJECT_DIR$/cloud_zuul/cloud_zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ideawork_cloud.iml" filepath="$PROJECT_DIR$/.idea/ideawork_cloud.iml" />
+    </modules>
+  </component>
+</project>

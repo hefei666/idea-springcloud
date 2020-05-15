@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud_zuul" />
+        <module name="cloud_ribbon" />
+        <module name="config-server" />
+        <module name="cloud_feign" />
+        <module name="cloud_sp2" />
+        <module name="cloud_service" />
+        <module name="cloud_sp1" />
+        <module name="cloud_sp3" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud_feign" target="1.8" />
+      <module name="cloud_ribbon" target="1.8" />
+      <module name="cloud_service" target="1.8" />
+      <module name="cloud_sp1" target="1.8" />
+      <module name="cloud_sp2" target="1.8" />
+      <module name="cloud_sp3" target="1.8" />
+      <module name="cloud_zuul" target="1.8" />
+      <module name="config-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud_feign" options="-parameters" />
+      <module name="cloud_ribbon" options="-parameters" />
+      <module name="cloud_service" options="-parameters" />
+      <module name="cloud_sp1" options="-parameters" />
+      <module name="cloud_sp2" options="-parameters" />
+      <module name="cloud_sp3" options="-parameters" />
+      <module name="cloud_zuul" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+    </option>
+  </component>
+</project>
