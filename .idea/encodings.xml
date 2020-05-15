@@ -8,7 +8,7 @@
     <file url="file://$PROJECT_DIR$/cloud_sp2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud_sp3" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud_zuul" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
   </component>
 </project>

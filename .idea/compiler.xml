@@ -9,6 +9,7 @@
         <module name="cloud_zuul" />
         <module name="cloud_ribbon" />
         <module name="config-server" />
+        <module name="config-client" />
         <module name="cloud_feign" />
         <module name="cloud_sp2" />
         <module name="cloud_service" />
@@ -24,6 +25,7 @@
       <module name="cloud_sp2" target="1.8" />
       <module name="cloud_sp3" target="1.8" />
       <module name="cloud_zuul" target="1.8" />
+      <module name="config-client" target="1.8" />
       <module name="config-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -36,6 +38,7 @@
       <module name="cloud_sp2" options="-parameters" />
       <module name="cloud_sp3" options="-parameters" />
       <module name="cloud_zuul" options="-parameters" />
+      <module name="config-client" options="-parameters" />
       <module name="config-server" options="-parameters" />
     </option>
   </component>
