@@ -7,5 +7,4 @@ spring:
     config:
       label: master
       profile: dev
-  spring:
       uri: http://localhost:8888/
